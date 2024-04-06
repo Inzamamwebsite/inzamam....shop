@@ -1,0 +1,12 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8;
+    color: #666;
+}
+.pimg1{
+  background-image: url(Screenshot\ 2024-04-06\ 125043.png);
+    min-height: 100%;
+}
